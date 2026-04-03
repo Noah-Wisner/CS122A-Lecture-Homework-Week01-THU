@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-//`include "halfadder.sv"
+`include "halfadder.sv"
 
 module testbench();
 
